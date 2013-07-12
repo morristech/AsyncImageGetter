@@ -1,0 +1,2 @@
+int drawable failed_placeholder 0x7f020000
+int drawable loading_placeholder 0x7f020001

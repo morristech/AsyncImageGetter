@@ -1,0 +1,14 @@
+package sk.virtualvoid;
+
+/**
+ * 
+ * @author suchan_j
+ *
+ */
+public class LibraryConstants {
+	public static final String TAG = "AsyncImageGetter-Library";	
+	public static final String TEMP_DIRECTORY = "AsyncImageGetter-Temp";
+	
+	protected static final int CONNECTION_TIMEOUT = 5000;
+	protected static final int READ_TIMEOUT = 5000;
+}
